@@ -1,7 +1,7 @@
 {
-  "platforms": ["apple", "android", "web"],
+  "platforms": ["apple", "android"],
   "apple": {
-    "modules": ["MyModule"]
+    "modules": ["TikTokBusinessModule"]
   },
   "android": {
     "modules": ["expo.modules.mymodule.MyModule"]
